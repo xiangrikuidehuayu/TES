@@ -1,0 +1,4 @@
+由于 GitBook 是基于 Node.js 开发的，所以依赖 Node.js 环境。如果您的系统中还未安装 Node.js，去官网下载nodejs
+https://nodejs.org/en/,
+根据你所使用的系统下载对应的版本。如果已安装则略过本步骤。
+解压到software文件夹：
